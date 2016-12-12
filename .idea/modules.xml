@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoginQQDemo.iml" filepath="$PROJECT_DIR$/LoginQQDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbusdemo/eventbusdemo.iml" filepath="$PROJECT_DIR$/eventbusdemo/eventbusdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiguangdemo/jiguangdemo.iml" filepath="$PROJECT_DIR$/jiguangdemo/jiguangdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpushdemo/jpushdemo.iml" filepath="$PROJECT_DIR$/jpushdemo/jpushdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message/message.iml" filepath="$PROJECT_DIR$/message/message.iml" />
+    </modules>
+  </component>
+</project>
